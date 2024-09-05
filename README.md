@@ -7,6 +7,21 @@ This study harnesses the advanced capabilities of the YOLOv8 model to enhance re
 
 # Folder and files description
 
+**Section 3.1** => Contains Juptyer notebooks, trained results (csv) for YOLOv5-s (small), YOLOv7 (small), and YOLOv8-n (nano) Detection which describes the "**Microalgae detection performance of different algorithms**".
+
+**Section 3.2** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (Trial 1, 2, 3, 4, and 5) which describes the "**Impact of dataset labelling and number of instances**".
+
+**Section 3.3** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (RGB [Basaeline model], Grayscale, Grayscale with Histogram Equalisation, and Grayscale with Adaptive Equalisation which describes the "**Effect of image pre-processing**".
+
+**Section 3.4** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (RGB [Basaeline model], Image-level (IMG) augmentation, and Bounding-box-level (BB) augmentation) which describes the "**Effect of image augmentation**".
+
+**Section 3.5** => Contains Juptyer notebooks, trained results (csv) for YOLOv8-n Instance Segmentation, YOLOv8-n Instance Segmentation under IMG and BB augmentation, and various YOLOv8 model sizes (YOLOv8-n [nano], YOLOv8-m [medium], and YOLOv8-x [large]) which describes the "**Comparison between detection and instance segmentation techniques**" and "**Effect of model sizes**".
+
+**File [Exp_4_Overall_Microalgae_Tabulated_results.xlsx]** => Contains all the results tabulated in excel format
+
+# Google drive (Complete results and data)
+For complete results and data can be found in the subsequent link => https://drive.google.com/drive/folders/1An2Erg8YEtNSpN0moSXQFi5zvhcjUn36?usp=drive_link
+
 **Section 3.1** => Contains trained model runs, Juptyer notebooks, trained results (csv) for YOLOv5-s (small), YOLOv7 (small), and YOLOv8-n (nano) Detection which describes the "**Microalgae detection performance of different algorithms**".
 
 **Section 3.2** => Contains trained model runs, Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (Trial 1, 2, 3, 4, and 5) which describes the "**Impact of dataset labelling and number of instances**".
@@ -16,11 +31,6 @@ This study harnesses the advanced capabilities of the YOLOv8 model to enhance re
 **Section 3.4** => Contains trained model runs, Juptyer notebooks, trained results (csv) for YOLOv8-n Detection (RGB [Basaeline model], Image-level (IMG) augmentation, and Bounding-box-level (BB) augmentation) which describes the "**Effect of image augmentation**".
 
 **Section 3.5** => Contains trained model runs, Juptyer notebooks, trained results (csv) for YOLOv8-n Instance Segmentation, YOLOv8-n Instance Segmentation under IMG and BB augmentation, and various YOLOv8 model sizes (YOLOv8-n [nano], YOLOv8-m [medium], and YOLOv8-x [large]) which describes the "**Comparison between detection and instance segmentation techniques**" and "**Effect of model sizes**".
-
-**File [Exp_4_Overall_Microalgae_Tabulated_results.xlsx]** => Contains all the results tabulated in excel format
-
-# Google drive (Complete results and data)
-For complete results and data can be found in the subsequent link => https://drive.google.com/drive/folders/1An2Erg8YEtNSpN0moSXQFi5zvhcjUn36?usp=drive_link
 
 # Image Dataset Preparation using Roboflow
 The preparation of microalgae (_Chlorella vulgaris_ FSP-E, _Chlamydomonas reinhardtii_, and _Spirulina platensis_) dataset "**Detection**" and "**Instance Segmentation**" labelling/ annotation and image pre-processing techniques (Grayscale, Histogram equalisation, Adaptive equalisation) were performed using the "Roboflow platform. 
