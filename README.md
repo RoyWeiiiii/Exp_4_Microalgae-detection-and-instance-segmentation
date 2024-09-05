@@ -27,4 +27,4 @@ The preparation of microalgae (_Chlorella vulgaris_ FSP-E, _Chlamydomonas reinha
 **Microalgae Instance Segmentation** => In the Roboflow platform, under the filename: "CJWR_Microalgae_Instance_Segmentation Dataset" contains Instance Segmentation_RGB, Instance Segmentation_RGB_IMG_Augmentation, and Instance Segmentation_RGB_BB_Augmentation (discussed under section 3.5 in the manuscript). Website link open access: https://app.roboflow.com/microalgae-hbwao/cjwr_microalgae_instance_segmentation/4
 
 # Referencing and citation
-If you find _Chlorella vulgaris_ FSP-E, _Chlamydomonas reinhardtii_, and _Spirulina platensis_ Detection and Instance Segmentation useful in your research, please consider citing:
+
