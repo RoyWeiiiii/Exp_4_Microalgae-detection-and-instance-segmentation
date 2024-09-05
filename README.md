@@ -5,7 +5,7 @@ This study harnesses the advanced capabilities of the YOLOv8 model to enhance re
 
 **Keywords:** Microalgae; Detection; Instance segmentation; YOLOv5; YOLOv7; YOLOv8
 
-# Files description
+# Folder and files description
 
 **Section 3.1** => Contains trained model runs, Juptyer notebooks, trained results (csv) for YOLOv5-s (small), YOLOv7 (small), and YOLOv8-n (nano) Detection which describes the "**Microalgae detection performance of different algorithms**".
 
